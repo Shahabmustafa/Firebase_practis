@@ -1,5 +1,6 @@
 
 
+import 'package:firebase_practis/view/Home%20Screen/material_3.dart';
 import 'package:firebase_practis/view/Splash%20Screen/splash_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -29,6 +30,13 @@ class _DrawerPageState extends State<DrawerPage> {
             leading: Icon(Icons.person),
             onTap: (){
               Navigator.push(context, MaterialPageRoute(builder: (context) => SplashPage()));
+            },
+          ),
+          ListTile(
+            title: Text('Material Three'),
+            leading: Icon(Icons.radio_button_checked),
+            onTap: (){
+              Navigator.push(context, MaterialPageRoute(builder: (context) => MaterialThree()));
             },
           ),
         ],
