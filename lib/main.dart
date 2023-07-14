@@ -1,4 +1,4 @@
-import 'package:firebase_practis/view/Splash%20Screen/splash_screen.dart';
+import 'package:firebase_practis/view/login_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         useMaterial3: true,
       ),
-      home: SplashPage(),
+      home: LoginPage(),
     );
   }
 }
