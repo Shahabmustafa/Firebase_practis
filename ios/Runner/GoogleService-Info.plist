@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDjT3-yl68dp1dRfjZIB2IJz33OHiOOyKk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>629812810948</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebasePractis</string>
+	<key>PROJECT_ID</key>
+	<string>hybrid-chess-368706</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hybrid-chess-368706.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:629812810948:ios:bc799921605f84de21a591</string>
+	<key>DATABASE_URL</key>
+	<string>https://hybrid-chess-368706-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
