@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "629812810948",
+    "firebase_url": "https://hybrid-chess-368706-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hybrid-chess-368706",
+    "storage_bucket": "hybrid-chess-368706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629812810948:android:29341e903981cd8721a591",
+        "android_client_info": {
+          "package_name": "com.example.LikedIn_Clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629812810948-mk34r3mbd3thkuhgsmihgorv3jhnms0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8AIKzHGsQLn9w8uO8_RAacmFKN0wvaWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629812810948-mk34r3mbd3thkuhgsmihgorv3jhnms0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629812810948:android:a57ea343e4eba18421a591",
+        "android_client_info": {
+          "package_name": "com.example.firebase_practis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629812810948-mk34r3mbd3thkuhgsmihgorv3jhnms0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8AIKzHGsQLn9w8uO8_RAacmFKN0wvaWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629812810948-mk34r3mbd3thkuhgsmihgorv3jhnms0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
